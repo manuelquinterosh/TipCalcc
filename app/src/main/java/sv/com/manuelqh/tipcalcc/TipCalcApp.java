@@ -4,6 +4,7 @@ import android.app.Application;
 
 /**
  * Created by postgres on 17/2/2017.
+ * Manuel Quinteros
  */
 
 public class TipCalcApp extends Application{
